@@ -57,8 +57,8 @@ The final output is a **multi-panel analytical dashboard** designed to mimic rea
 ## 🖼️ Visual Output
 
 
-```text
-![Dashboard](outputs/figures.png)
+```
+![Dashboard](./outputs/figures.png)
 ```
 
 
