@@ -63,9 +63,6 @@ The final output is a **multi-panel analytical dashboard** designed to mimic rea
 
 
 
-```python
-plt.savefig('outputs/figures.png', dpi=300, bbox_inches='tight')
-```
 
 
 ---
