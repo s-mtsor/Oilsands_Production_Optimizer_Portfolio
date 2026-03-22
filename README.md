@@ -58,7 +58,9 @@ The final output is a **multi-panel analytical dashboard** designed to mimic rea
 
 
 ```
-![Dashboard](./outputs/figures.png)
+
+![Dashboard](https://github.com/s-mtsor/Oilsands_Production_Optimizer_Portfolio/blob/main/outputs/figures.png?raw=true)
+
 ```
 
 
